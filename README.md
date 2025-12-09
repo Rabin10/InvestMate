@@ -4,11 +4,11 @@ I used React for the frontend because it makes building interactive dashboards e
 
 Challenges
 
-Some challenges included integrating the Finnhub API for live stock and crypto prices, especially converting symbols like “BTC” into the correct API format. Setting up Google OAuth was also tricky because I had to configure sessions and make sure routes only returned data for the logged-in user. On the frontend, managing modals for editing and deleting investments taught me a lot about React state and UI flow.
+Some challenges included integrating the Finnhub API for live stock and crypto prices, especially converting symbols like “BTC” into the correct API format. Setting up Google OAuth was also tricky because I had to configure sessions and make sure routes only returned data for the logged in user. On the frontend, managing modals for editing and deleting investments taught me a lot about React state and UI flow.
 
 Learning Outcomes
 
-I learned how a full-stack application works end-to-end: building REST routes, connecting Express to PostgreSQL, handling authentication, and updating UI state based on API responses. I also gained experience with real API integration, data validation, and building clean dashboards using charts.
+I learned how a fullstack application works endtoend: building REST routes, connecting Express to PostgreSQL, handling authentication, and updating UI state based on API responses. I also gained experience with real API integration, data validation, and building clean dashboards using charts.
 
 Future Work
 
