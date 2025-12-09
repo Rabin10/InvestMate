@@ -1,6 +1,6 @@
 Design Choices
 
-I used React for the frontend because it makes building interactive dashboards easy, and Tailwind CSS helped me quickly create a clean, modern interface. The backend uses Node.js + Express, which provides a simple structure for building REST APIs. I chose PostgreSQL to store user accounts and investments because it handles relational data well. The database schema uses two tables—users and investments—linked by a foreign key so each user has their own portfolio.
+I used React for the frontend because it makes building interactive dashboards easy, and Tailwind CSS helped me quickly create a clean, modern interface. The backend uses Node.js + Express, which provides a simple structure for building REST APIs. I chose PostgreSQL to store user accounts and investments because it handles relational data well. The database schema uses two tables users and investments linked by a foreign key so each user has their own portfolio.
 
 Challenges
 
